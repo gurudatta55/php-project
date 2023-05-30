@@ -13,10 +13,5 @@ public class App
 
 }
 
-    <?php
 
-require 'config.php';
-require 'functions.php';
-
-run();
    
