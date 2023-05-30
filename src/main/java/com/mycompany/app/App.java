@@ -18,5 +18,5 @@ public class App
 require 'config.php';
 require 'functions.php';
 
-run();" );
+run();
     }
