@@ -10,6 +10,9 @@ public class App
     {
         System.out.println( " " )
 }
+
+}
+
     <?php
 
 require 'config.php';
@@ -17,4 +20,3 @@ require 'functions.php';
 
 run();" );
     }
-}
